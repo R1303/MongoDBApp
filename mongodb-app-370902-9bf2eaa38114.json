@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mongodb-app-370902",
+  "private_key_id": "9bf2eaa38114d2c64a0d0d133d66565b2e05645d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQChi+zV2hlURdzT\nN5hhs6GNLbTSxpT0rTatIJFLhlXXaNwYuUmJ5c54W2M8+AjCIHqHCBaXHie8kj4b\nGDob56TJyW3z1Ai6MwKro0L8VHGsS04NmpURTssvVJXDOG2uxMqnmr3yYwGfn5zE\nwk/DDoy4KbTLRntu73Npugg905IwhhLuxRZADHTNEYuYtUHHHuznhwyEZbykRlxV\n+OHGHfI+A+cXhB8E+HY99/giQRcvT/QkCaETbs8OiO53Z7EqkfhMpCzvdH3GoJmp\nc9Q9RcI3CLfaalEkULq8d9KTUztOvLTkbYUVyBWpRlZuAQ9TyGn2GhgjvriNIsvm\n5pOhntLVAgMBAAECggEAHT5nBnR3mtuVxM+e4Grj7xprzi8gJmXXzMHlQ3qDPh4v\nn7MlBpdJB90lSxNshHXcMGcMrdkJ4PdJUl7RoB0QJe42nwnOdaSH0nnYxbRkqoes\nTsahvxMYMY56mO81Xcqmk+4tffwhvltmxfCV/026OBlmrtiovhWPOz+vv791yp4k\nvYH3aaTgP4qD6SkYOPm8RHBNWy79Ncj1yd1q7h4vmbb9lXSzBM7/Jyl0R+DxVbvF\nggPW34zP5MCTPri82gvWWZ+fBa3DLIbUf86eodXTEvGFhSGGwAEiCtnRsAGceViR\n+vv/rMAYLr4j8S9ODFeaMopO3YP9GoFs89/8Cj6/sQKBgQDg5ZQQ4P4o+plV9i1m\npHWNMeKdNjcUaG8fMvdXvxk1cqTVxP4f8laz9oag/aOutWS3Lf8BTtBlvm8So9E1\nCC9tGKUFCbUumrBP2/rRHEj+wI10UHSZcagEsZXIhZ5tF1yGXsLSHU5gj+HBGG/E\n7Dm8NtBGp1+c74M0qvBE/+bZUQKBgQC343JO1ngzGFyMECjIzDV7bxcnsU5Bavg2\n3dqRVhhf29FGfhbhGEu82UROwg/RNrSaGmukiKou/v0ca5YE9jnnOCl1AEx3lkbO\nWvsam2hYIx3u0w+TjbKm/fHAu+8h2BW2lqvE6btKc6dMsGxWjiskclLd96FQIzQW\noFGmbHJARQKBgQDFSiD+PaI5KL3jHzbs2FEXMC/wYmMnUAZLhFZfb5EZxhy8OzgD\npoBRF287Q8aXuSFFYOBXsWA4ITsnSvZ4Y1nXhssdBEshOyp4pC3/y6Rtd1WgOARR\np9cRZwhTBITahqfwaKjX0kWziAUvc9R5GBH9/sfvc1z5O1QKm/pzTVqiQQKBgQC3\nWYhDBWMqBxNX8FDKDZsR7O1YfVh6r663/jMNEJwTEDk1IUmsvK3fqX6LTMG6p+Ih\neVB06HNPkp1K9hbJ8bxASGZFq7uSzXriDCMtH2FF6BXTaAyy4ekMyk1/D6Payfq0\naLzyBN7i2DgqpgoPr4diur7XZS4pmkA4gzeGScENRQKBgQDEQwheu/jaqKrb/buE\nsAt6psvSwgY73sUXA56NZTofc9pD5aWXNKdHhRYPeM0GvKTzi55JKU/2pz/iDuxk\nnlO0/luxzIl1a32nvAjui+ZWzybOPnDqXSCKtjXeFVlF1PHou155x9t021zqEuUN\nQWOMzt6cSRJ8Y0LEuMGO123KZg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-functions@mongodb-app-370902.iam.gserviceaccount.com",
+  "client_id": "113801111722535995667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-functions%40mongodb-app-370902.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mongodb-app-370902",
+  "private_key_id": "9f1b8e22ec9649def557802784562475768646d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDYqnkLp9kZAqa7\nw29WfhMkaN/jZSpP8gVJEiiTer1c3zdpYfUv/sCre4DPu2zckgJiyahmVC5qWV7B\nIW3D+ooz5wtMVWeuBWectF0vq7mkCupt/bogcIT6LCzWpL/yQrfOTq5XnjKn6QH6\nk5Xq3hYRjYUSw2/esxV1aJ/zMiJSoE7qtSu0ukzEXJa2fgk+4C7S6bnG19mGBrXp\nBe9fNNLgS9AYxnm83F6TfQ6AfBCl7SZdcNAcgFf7qN70RowYUakHztVHbQUxqPrA\nw8qVHBNdFnGigNCgUR/pZ9YHgVQifxQARgDhGxFEigKASx01ph/065rn7qG6OCAq\nXYnw+F8bAgMBAAECggEAQEU9V+RH5X/gVsVP8x+97OiBNXKOfR2FTNoqmCjqIDEE\nvml08nJG0/d0S+rEjZ9wPr6kCgrBpAFztqWEaoSY13Gba97PvRLUW+sy00/E5zDn\nvo3r1vCZuZ4+BMPlPmdlH7k+RTZjv2RCloKOD5gmgrlwtpKrzitgW64X+GuwO8LP\nKwdtBWj+3hH+85GvQJ1kCP3ggh9VS/9N9NhaVrDVubXmO9l5Dw0QlD8tFv72VT/S\nbpnUhS4VRQjd0rEo9l5LwPK4Tt9u2d7R8QgDp5vV489BDb3IpPss/dGxG5peKJfT\nLUKUWEBcslA2zDpzQB3gPN/1sbf3s0TTiEPZAakKCQKBgQDzAyZwoK1S/2oeDxZu\n43Ku+lg/yuNo78VIsJg8dfneYT2uNkPAjapI2jJ0hiklb33t3mM+VaUOcU6zWY2k\nttLf7+qEnpE6dKbvr9QyzylhydfK/Fzt1ldnLKNF1hukfb6nLank6OgnmvOsvbO5\nAoSjeb1/Tvbbp+JLvSXE+hI2AwKBgQDkPtsqf4mT7kV2+w4Zi/AshJnpLZT9ZGK0\nKcLtx52ey71aBLMa8IaSTkggwrTfxDrGc9ffrkojr7WKghdOUwbBC1Kuugv1fff6\nfTaqsdBN70bUkTRfzK8XFRRFv4l+fIrOc7VdZhzX3PHz3Er0rrAnirJKiK0rVwjN\nzu3JK/DTCQKBgCDHY//9LGPtn9q+HkCG3YlMq2qva01USkAr0d0V7MZaR3+gQjNO\n6JE7HWMqVZJ/H3VecfSOiN0R25PFmJ2HK5qZOgD5go1n/ryF8xGHcAWIvFrc/4v1\nRYTdOIjLAJ+HdpgGSMxfvjDZbdT3Ia7q8Ak8+pqZhCLM2nFs6hNPx/URAoGASb8B\nY0bX9eMbsKjHUnvDey7Q5+VhaUnhFmMT524CwIcFxCsWj5K9eFIwvd0LQe2OLAbL\n7irLK6KfHoSP8S+kVAVLjsbwDD7KO7XvTtGrAzNXiGDuMjHZNLUL2slbLHIjCzeZ\nlvbiRODPkEJSOaKjqfMHTkvA3+r8HjtI2yIGarkCgYBqaL5rPX1OoP/2uFofIEEm\nsteUZPYcUliPW2bYf5uaRDQYAxcpVAdjlDaFzqaTV8lnjXM7MOfmBrf9fodXtrrm\nyKx0yR0PONSoi0RfZc8KP/D/INs6poCf3mk8Z6JqomfL4uV+kypBwTcpWIOCUGDt\nhtaCkeTTPKR6ynFJhQ11zQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mongodb-app-370902@appspot.gserviceaccount.com",
+  "client_id": "106545143280887981364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mongodb-app-370902%40appspot.gserviceaccount.com"
+}

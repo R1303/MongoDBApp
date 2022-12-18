@@ -1,0 +1,11 @@
+{
+  "/api/*": {
+      "target": "https://us-central1-mongodb-app-370902.cloudfunctions.net/app/api/getUser",
+      "secure": false,
+      "pathRewrite":{
+        "/api/":""
+      },
+      "changeOrigin":true,
+      "logLevel":"debug"
+  }
+}

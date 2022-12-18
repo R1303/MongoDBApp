@@ -1,0 +1,58 @@
+<br>
+<div *ngIf="showSpinner" style="height: 1000px; width: 200px;">
+  <div class="wrapper">
+    <div class="overlay">
+      <div class="spinner-wrapper">
+        <app-app-spinner></app-app-spinner>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="!showSpinner">
+<form #userForm="ngForm" (ngSubmit)="onSave(userForm.value)" novalidate>
+  <table border="1">
+    <tr>
+        <td>Name</td>
+        <td>
+            <input name="id" type="hidden" [(ngModel)]="id"/>
+            <input name="name" type="text" [(ngModel)]="name"/>  
+        </td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td><input name="address" required type="text" [(ngModel)]="address"/></td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="{{valbutton}}" style="
+          width: -webkit-fill-available;
+          background-color: green;
+          border: white;
+          cursor: pointer;
+      "></td>
+    </tr>
+  </table>
+</form>
+<hr>
+<table border="1">
+   <tr style="background-color: aqua;color: black;font-family: fantasy;">
+    <td>ID</td>
+    <td>Name</td>
+    <td>Address</td>
+    <td colspan="2">Action</td>
+   </tr>
+   <tr *ngFor="let kk of Repdata;let ind = index">
+     <td>{{ind +1 }}</td>
+     <td>{{kk.name}}</td>
+     <td>{{kk.address}}</td>
+     <td><a (click)="edit(kk)" style="color:blue;cursor: pointer;">Edit</a></td>
+     <td><a (click)="delete(kk)" style="color:red;cursor: pointer;">Delete</a></td>
+   </tr>
+</table>
+</div>
+<br>
+<div style="text-align: center;">
+  <span  style="color: blue;display: inline;font-size: 20px;">
+       <a href="#" routerLink='' (click)="clickLink('detail');">Logout</a>
+   </span> 
+</div>
